@@ -10,7 +10,7 @@ j=n*2-1; //biet duoc cai canh day' dai bnhiu
 int temp=n;
 for(int i=0;i<n;i++)
 {   for(k=0;k<=n;k++)
-        { out<<" ";
+        { cout<<" ";
         if(k==temp)
             {for(int t=temp;t<=count;t++)
                 cout<<"*";}
